@@ -9,4 +9,4 @@ https://nightly.mtasa.com/multitheftauto_linux-1.5.9-rc-21181.tar.gz [ MTA Serve
 
 https://nightly.mtasa.com/ [ For All MTA Server EXE's ]
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+---------------------------------------
