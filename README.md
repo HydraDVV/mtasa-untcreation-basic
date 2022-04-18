@@ -8,9 +8,11 @@ MTA Server Starter
     https://nightly.mtasa.com/multitheftauto_linux-1.5.9-rc-21181.tar.gz [ MTA Server EXE x64 Modules ] For Linux
     https://nightly.mtasa.com/ [ For All MTA Server EXE's ]
     
-Apache & Navicat MySQL 16
+Apache 8.6.0 & Navicat MySQL 16
 ----------------------------------------
-
+    Apache : https://sourceforge.net/projects/appserv/files/AppServ%20Open%20Project/8.6.0/
+    
+    Navicat Mysql:
     https://www.navicat.com/download/direct-download?product=navicat_mysql_en_x64.exe&location=1 [ Windows x64 ]
     https://www.navicat.com/download/direct-download?product=navicat_mysql_en.dmg&location=1  [ macOS x64 ]
     https://www.navicat.com/download/direct-download?product=navicat16-mysql-en.AppImage&location=1 [ Linux x64 ]
