@@ -14,6 +14,7 @@ Apache & Navicat MySQL 16
     https://www.navicat.com/download/direct-download?product=navicat_mysql_en_x64.exe&location=1 [ Windows x64 ]
     https://www.navicat.com/download/direct-download?product=navicat_mysql_en.dmg&location=1  [ macOS x64 ]
     https://www.navicat.com/download/direct-download?product=navicat16-mysql-en.AppImage&location=1 [ Linux x64 ]
+    
     Linux  execution command:
     chmod +x navicat16-mysql-en.AppImage
     ./navicat16-mysql-en.AppImage
