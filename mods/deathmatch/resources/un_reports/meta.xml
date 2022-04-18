@@ -1,0 +1,17 @@
+<meta>
+
+	<script src="client.lua" type="client" cache="false" />
+	<file src="index.html" cache="false" protect="true" />
+	<file src="js/mtaevents.js" cache="false" protect="true" />
+	<file src="js/uikit.min.js" cache="false" protect="true" />
+	<file src="css/style.css" cache="false" protect="true" />
+	<file src="css/uikit.min.css" cache="false" protect="true" />
+
+	<script src="core/s_reports.lua"/>
+    <script src="core/c_reports.lua" type="client" cache="false" />
+
+	<script src="core/g_reports.lua" type="shared"/>
+	<export function="getReportTypes" type="shared" />
+	<export function="showToAdminPanel" type="server" />
+	<export function="reportLazyFix" type="server"/>
+</meta>

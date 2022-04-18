@@ -1,0 +1,10 @@
+<meta>
+    <info author="TR|PLAY3" version="1.0" type="misc" name="Drift Pista Vineyard"/>   
+    <script src="kizkulesi.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+    <file src="data/kz.dff" />
+    <file src="data/kz.txd" />
+    <file src="data/kz.col" />
+	
+    <script src="Delete.lua" type="client" cache="false" />
+</meta>

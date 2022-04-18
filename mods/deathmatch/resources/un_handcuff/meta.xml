@@ -1,0 +1,9 @@
+<meta>
+    <oop>true</oop>
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+    <script src="global.lua" type="shared" />
+    
+    <export function="kelepcele" type="shared" />
+    <min_mta_version client="1.5.8-9.20704"></min_mta_version>
+</meta>

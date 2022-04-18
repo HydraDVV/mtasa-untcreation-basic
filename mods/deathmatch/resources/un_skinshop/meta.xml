@@ -1,0 +1,299 @@
+﻿<meta>
+	<oop>true</oop>
+
+	<script src= "client.lua"  type="client" cache="false"/>
+	<script src= "server.lua"  type="server" cache="false"/>
+	<script src= "skins.lua"  type="shared" cache="false"/>
+	<script src="models.lua" type="client" cache="false"/>
+	
+	<file src="files/Font1.ttf" />
+	<file src="files/Font2.otf" />
+
+	<file src="models/fam2.txd"/>
+	<file src="models/fam2.dff"/>
+
+	<file src="models/wmybmx.txd"/>
+	<file src="models/wmybmx.dff"/>
+
+	<file src="models/tee.txd"/>
+	<file src="models/tee.dff"/>
+
+	<file src="models/lsv2.txd"/>
+	<file src="models/lsv2.dff"/>
+
+	<file src="models/omyst.txd"/>
+	<file src="models/omyst.dff"/>
+
+	<file src="models/vmaff1.txd"/>
+	<file src="models/vmaff1.dff"/>
+
+	<file src="models/mecgrl3.txd"/>
+	<file src="models/mecgrl3.dff"/>
+
+	<file src="models/hmyst.txd"/>
+	<file src="models/hmyst.dff"/>
+
+	<file src="models/kendl.txd"/>
+	<file src="models/kendl.dff"/>
+
+	<file src="models/swfyst.txd"/>
+	<file src="models/swfyst.dff"/>
+
+	<file src="models/crogrl3.txd"/>
+	<file src="models/crogrl3.dff"/>
+
+	<file src="models/vwmybjd.txd"/>
+	<file src="models/vwmybjd.dff"/>
+
+	<file src="models/andre.txd"/>
+	<file src="models/andre.dff"/>
+
+	<file src="models/wfyclot.txd"/>
+	<file src="models/wfyclot.dff"/>
+
+	<file src="models/bmycr.txd"/>
+	<file src="models/bmycr.dff"/>
+
+	<file src="models/drof.txd"/>
+	<file src="models/drof.dff"/>
+
+	<file src="models/maffa.txd"/>
+	<file src="models/maffa.dff"/>
+
+	<file src="models/fam3.txd"/>
+	<file src="models/fam3.dff"/>
+
+	<file src="models/wmydrug.txd"/>
+	<file src="models/wmydrug.dff"/>
+
+	<file src="models/somyst.txd"/>
+	<file src="models/somyst.dff"/>
+
+	<file src="models/sfa.txd"/>
+	<file src="models/sfa.dff"/>
+
+	<file src="models/maccer.txd"/>
+	<file src="models/maccer.dff"/>
+
+	<file src="models/claude.txd"/>
+	<file src="models/claude.dff"/>
+
+	<file src="models/harley.txd"/>
+	<file src="models/harley.dff"/>
+
+	<file src="models/paul.txd"/>
+	<file src="models/paul.dff"/>
+
+	<file src="models/hmyri.txd"/>
+	<file src="models/hmyri.dff"/>
+
+	<file src="models/cruz.txd"/>
+	<file src="models/cruz.dff"/>
+
+	<file src="models/ren.txd"/>
+	<file src="models/ren.dff"/>
+
+	<file src="models/bmyri.txd"/>
+	<file src="models/bmyri.dff"/>
+
+	<file src="models/skin.txd"/>
+	<file src="models/skin.dff"/>
+
+	<file src="models/dnb1.txd"/>
+	<file src="models/dnb1.dff"/>
+
+	<file src="models/truth.txd"/>
+	<file src="models/truth.dff"/>
+
+	<file src="models/wmyri.txd"/>
+	<file src="models/wmyri.dff"/>
+
+	<file src="models/yer.txd"/>
+	<file src="models/yer.dff"/>
+
+	<file src="models/bmyap.txd"/>
+	<file src="models/bmyap.dff"/>
+
+	<file src="models/rob.txd"/>
+	<file src="models/rob.dff"/>
+
+	<file src="models/bmytatt.txd"/>
+	<file src="models/bmytatt.dff"/>
+
+	<file src="models/vayt.txd"/>
+	<file src="models/vayt.dff"/>
+
+	<file src="models/sayt.txd"/>
+	<file src="models/sayt.dff"/>
+
+	<file src="models/dwayne.txd"/>
+	<file src="models/dwayne.dff"/>
+
+	<file src="models/fam1.txd"/>
+	<file src="models/fam1.dff"/>
+
+	<file src="models/vla3.txd"/>
+	<file src="models/vla3.dff"/>
+
+	<file src="models/maxpayne.txd"/>
+	<file src="models/maxpayne.dff"/>
+
+	<file src="models/lvpdpc.txd"/>
+	<file src="models/lvpdpc.dff"/>
+
+	<file src="models/irishass1.txd"/>
+	<file src="models/irishass1.dff"/>
+
+	<file src="models/irishass2.txd"/>
+	<file src="models/irishass2.dff"/>
+
+	<file src="models/wmyammo.txd"/>
+	<file src="models/wmyammo.dff"/>
+
+	<file src="models/grl1.txd"/>
+	<file src="models/grl1.dff"/>
+
+	<file src="models/grl2.txd"/>
+	<file src="models/grl2.dff"/>
+
+	<file src="models/grl3.txd"/>
+	<file src="models/grl3.dff"/>
+
+	<file src="models/grl4.txd"/>
+	<file src="models/grl4.dff"/>
+
+	<file src="models/grl5.txd"/>
+	<file src="models/grl5.dff"/>
+
+	<file src="models/grl6.txd"/>
+	<file src="models/grl6.dff"/>
+
+	<file src="models/man1.txd"/>
+	<file src="models/man1.dff"/>
+
+	<file src="models/ciplakman.txd"/>
+	<file src="models/ciplakman.dff"/>
+
+	<file src="models/ciplakgrl.txd"/>
+	<file src="models/ciplakgrl.dff"/>
+
+	<file src="models/medic1.txd"/>
+	<file src="models/medic1.dff"/>
+
+	<file src="models/medic2.txd"/>
+	<file src="models/medic2.dff"/>
+
+	<file src="models/medic3.txd"/>
+	<file src="models/medic3.dff"/>
+
+	<file src="models/medic4.txd"/>
+	<file src="models/medic4.dff"/>
+
+	<file src="models/lspd1.txd"/>
+	<file src="models/lspd1.dff"/>
+
+	<file src="models/lspd2.txd"/>
+	<file src="models/lspd2.dff"/>
+
+	<file src="models/lspd3.txd"/>
+	<file src="models/lspd3.dff"/>
+
+	<file src="models/lspd4.txd"/>
+	<file src="models/lspd4.dff"/>
+	
+	<file src="models/lspd6.txd"/>
+	<file src="models/lspd6.dff"/>
+
+	<file src="models/lspd7.txd"/>
+	<file src="models/lspd7.dff"/>
+
+	<file src="models/lspd8.txd"/>
+	<file src="models/lspd8.dff"/>
+
+	<file src="models/lspd9.txd"/>
+	<file src="models/lspd9.dff"/>
+
+	<file src="models/lspd9asayis.txd"/>
+	<file src="models/lspd9asayis.dff"/>
+
+	<file src="models/lspd9bekci.txd"/>
+	<file src="models/lspd9bekci.dff"/>
+
+	<file src="models/lspd9yunus.txd"/>
+	<file src="models/lspd9yunus.dff"/>
+
+	<file src="models/lspd10.txd"/>
+	<file src="models/lspd10.dff"/>
+
+	<file src="models/lspd11.txd"/>
+	<file src="models/lspd11.dff"/>
+
+	<file src="models/lspd12.txd"/>
+	<file src="models/lspd12.dff"/>
+
+	<file src="models/lspd12bekci.txd"/>
+	<file src="models/lspd12bekci.dff"/>
+
+	<file src="models/lspd12trafik.txd"/>
+	<file src="models/lspd12trafik.dff"/>
+
+	<file src="models/lspd12yunus.txd"/>
+	<file src="models/lspd12yunus.dff"/>
+
+	<file src="models/lspd13.txd"/>
+	<file src="models/lspd13.dff"/>
+
+	<file src="models/lspd14.txd"/>
+	<file src="models/lspd14.dff"/>
+
+	<file src="models/lspd14asayis.txd"/>
+	<file src="models/lspd14asayis.dff"/>
+
+	<file src="models/lspd14trafik.txd"/>
+	<file src="models/lspd14trafik.dff"/>
+
+	<file src="models/lspd14yunus.txd"/>
+	<file src="models/lspd14yunus.dff"/>
+
+	<file src="models/lspd15.txd"/>
+	<file src="models/lspd15.dff"/>
+
+	<file src="models/lspd16.txd"/>
+	<file src="models/lspd16.dff"/>
+
+	<file src="models/lspd17.txd"/>
+	<file src="models/lspd17.dff"/>
+
+	<file src="models/lspd17trafik.txd"/>
+	<file src="models/lspd17trafik.dff"/>
+
+	<file src="models/lspd17asayis.txd"/>
+	<file src="models/lspd17asayis.dff"/>
+
+	<file src="models/lspd17yunus.txd"/>
+	<file src="models/lspd17yunus.dff"/>
+
+	<file src="models/lspd18.txd"/>
+	<file src="models/lspd18.dff"/>
+
+	<file src="models/lspd18trafik.txd"/>
+	<file src="models/lspd18trafik.dff"/>
+
+	<file src="models/lspd18yunus.txd"/>
+	<file src="models/lspd18yunus.dff"/>
+
+	<file src="models/lspd19.txd"/>
+	<file src="models/lspd19.dff"/>
+
+	<file src="models/lspd20.txd"/>
+	<file src="models/lspd20.dff"/>
+
+	<file src="models/lspd21.txd"/>
+	<file src="models/lspd21.dff"/>
+
+	<file src="models/fcru.txd"/>
+	<file src="models/fcru.dff"/>
+
+	<file src="models/fcry.txd"/>
+	<file src="models/fcry.dff"/>
+</meta>

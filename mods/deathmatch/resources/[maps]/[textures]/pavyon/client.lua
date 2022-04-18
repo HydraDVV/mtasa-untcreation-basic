@@ -1,0 +1,5 @@
+txd = engineLoadTXD ( "object.txd" )
+engineImportTXD ( txd, 17700 )
+dff = engineLoadDFF ( "object.dff" )
+engineReplaceModel ( dff, 17700 )
+engineSetModelLODDistance(17700, 10000)

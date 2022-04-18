@@ -1,0 +1,6 @@
+﻿<meta>
+    <info author='pavlov&bekiroj' version='1.0' name='SkinScripti ID: 5708' />
+	<script src='client.lua' type='client' />
+	<file src='Dosyalar/1.txd' />
+	<file src='Dosyalar/2.dff' />
+</meta>

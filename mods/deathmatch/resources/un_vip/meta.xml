@@ -1,0 +1,13 @@
+<meta>
+	<oop>true</oop>
+	
+	<script src="async.lua" type="shared"/>
+	<script src="shared.lua" type="shared"/>
+	<script src="core.lua" type="server"/>
+
+	<script src="components/client.lua" type="client" cache="false"/>
+	<script src="components/server.lua" type="server"/>
+	
+	<export function="loadVIP" type="server"/>
+	<export function="addVIP" type="server"/>
+</meta>

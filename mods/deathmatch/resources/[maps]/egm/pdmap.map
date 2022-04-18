@@ -1,0 +1,27 @@
+<map edf:definitions="editor_main">
+    <object id="object (fencesmallb) (1)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1536.8" posY="-1663.8" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (2)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1536.8" posY="-1681.6" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (3)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1538.9" posY="-1679.5" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (4)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1538.9" posY="-1665.9" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (5)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1538.9" posY="-1670" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (6)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1661.7" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (7)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1541" posY="-1672.1" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (8)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1541" posY="-1677.4" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (9)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1657.6" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (10)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1653.5" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (11)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1649.4" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (12)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1645.3" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (13)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1641.2" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (14)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1683.7" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (15)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1687.8" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (16)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1691.9" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (17)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1696" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (18)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1700.1" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (19)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1704.2" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (20)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1708.3" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (21)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1534.7" posY="-1712.4" posZ="13.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (bollardlight) (1)" breakable="true" interior="0" alpha="255" model="1215" doublesided="false" scale="1" dimension="0" posX="1543.3" posY="-1672" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (2)" breakable="true" interior="0" alpha="255" model="1215" doublesided="false" scale="1" dimension="0" posX="1543.3" posY="-1677.5" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (3)" breakable="true" interior="0" alpha="255" model="1215" doublesided="false" scale="1" dimension="0" posX="1538.6" posY="-1677.5" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (4)" breakable="true" interior="0" alpha="255" model="1215" doublesided="false" scale="1" dimension="0" posX="1538.6" posY="-1672.2" posZ="13.1" rotX="0" rotY="0" rotZ="0"></object>
+</map>

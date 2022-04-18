@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="tr" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="http://mta/un_reports/css/uikit.min.css">
+    <link rel="stylesheet" href="http://mta/un_reports/css/style.css">
+    <meta author="Denetim">
+    <title></title>
+  </head>
+  <body style="background: transparent;">
+    <div class="container">
+      <div class="paper1"></div>
+      <div class="paper2"></div>
+        <div class="bigtext">Oyuncu Yardım Arayüzü</div>
+        <div class="text">
+            Aşağıya sorununuzu yazarak yetkililere ulaşabilir ve yardım alabilirsiniz, lütfen raporda emir kipi kullanmayın.</div>
+      <div class="content">
+        <textarea name="message" maxlength="250" id="problems" class="report" placeholder="Sorununuzu detaylıca anlatınız." ></textarea>
+          <button type="submit" class="slide" onclick="mta.triggerEvent('reports.send', document.getElementById('problems').value); document.getElementById('problems').value ='';">Gönder</button>
+          <button type="submit" class="slide2" onclick="mta.triggerEvent('reports.close');">x</button>
+        <div class="leftpanel">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+<meta>
+	<script src='c_side.lua' type='client' cache='false'/>
+	<script src='s_side.lua' type='server'/>
+	<file src='data/fonts/light.ttf'/>
+	<file src='data/fonts/regular.ttf'/>
+	<file src='data/fonts/bold.ttf'/>
+	<file src='data/images/images.png'/>
+	<file src='data/images/pointer.png'/>
+	<file src='data/images/background.png'/>
+</meta>

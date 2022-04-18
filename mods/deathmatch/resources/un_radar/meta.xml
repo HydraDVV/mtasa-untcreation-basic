@@ -1,0 +1,42 @@
+<meta>
+    <info author="fusion." name="chojnas radar" type="script" />
+    
+    <script src="client_radar.lua" type="client" cache="false" />
+
+    <export function="showRadar" type="client"/>
+    
+    <file src="fx/tex_matrix.fx"/>
+    <file src="fx/hud_mask.fx"/>
+
+    <file src="images/mask.png"/>
+    <file src="images/radar.png"/>
+    <file src="images/shadow.png"/>
+
+
+    <file src="images/blips/none.png"/>
+    <file src="images/blips/checkpoint.png"/>
+    <file src="images/blips/burger.png"/>
+    <file src="images/blips/spray.png"/>
+    <file src="images/blips/ammu.png"/>
+    <file src="images/blips/gielda.png"/>
+    <file src="images/blips/house.png"/>
+    <file src="images/blips/clothing.png"/>
+    <file src="images/blips/c.png"/>
+    <file src="images/blips/salon.png"/>
+    <file src="images/blips/player.png"/>
+    <file src="images/blips/tuning.png"/>
+    <file src="images/blips/dollar.png"/>
+    <file src="images/blips/visualtune.png"/>
+    <file src="images/blips/work.png"/>
+    <file src="images/blips/repair.png"/>
+    <file src="images/blips/parwko.png"/>
+    <file src="images/blips/cpn.png"/>
+    <file src="images/blips/office.png"/>
+    <file src="images/blips/przechowalnia.png"/>
+    <file src="images/blips/pd.png"/>
+    <file src="images/blips/samc.png"/>
+    <file src="images/blips/race.png"/>
+    <file src="images/blips/diamond.png"/>
+    <file src="images/blips/ogien.png"/>
+
+</meta>

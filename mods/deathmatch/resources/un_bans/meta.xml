@@ -1,0 +1,9 @@
+<meta>
+
+    <oop>true</oop>
+
+    <script src="classes.lua" type="shared" />
+
+    <script src="index.lua" type="server" />
+    
+</meta>

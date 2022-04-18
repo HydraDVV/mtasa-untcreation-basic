@@ -1,0 +1,17 @@
+<meta>
+    <oop>true</oop>
+	<script src="speedo/client-side.lua" type="client" />
+
+	<file src="speedo/olds/AbFont.ttf"/>
+	<file src="speedo/olds/gasolina.png" />
+	<file src="speedo/olds/freio.png" />
+	<file src="speedo/olds/handbrake.png" />
+	<file src="speedo/olds/cinto.png" />
+	<file src="speedo/olds/farol.png" />
+	<file src="speedo/olds/circle/GothamPro-Medium.ttf" type="client" />
+	<script src="speedo/olds/circle/hou_circle.lua" type="client" />
+	<file src="speedo/olds/circle/hud_mask.fx" type="client" />
+	<file src="speedo/olds/circle/tex_matrix.fx" type="client" />
+	<file src="speedo/olds/circle/hou_circle.fx" type="client" />
+	 <min_mta_version server="1.5.2-9.07903" client="1.3.0-9.04431" />
+</meta>

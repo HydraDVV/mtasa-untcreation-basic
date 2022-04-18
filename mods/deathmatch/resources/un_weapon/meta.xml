@@ -1,0 +1,46 @@
+<meta>
+	<script src="c_firemod.lua" type="client" cache="false"/>
+    <script src="c_sound.lua" type="client" cache="false"/>
+    <script src="c_punish.lua" type="client" cache="false"/>
+    <script src="c_models.lua" type="client" cache="false"/>
+    <script src="c_sync.lua" type="client" cache="false"/>
+    <script src="s_stat.lua" type="server" />
+    <script src="attach/s_attach.lua" type="server" />
+    <script src="attach/c_attach.lua" type="client" cache="false"/>
+    
+	<file src="models/m4.dff" />
+	<file src="models/m4.txd" />
+	<file src="models/ak47.dff" />
+	<file src="models/ak47.txd" />
+	<file src="models/sniper.dff" />
+	<file src="models/sniper.txd" />
+	<file src="models/desert_eagle.dff" />
+	<file src="models/desert_eagle.txd" />
+	<file src="models/mp5.dff" />
+	<file src="models/mp5.txd" />
+	<file src="models/uzi.dff" />
+	<file src="models/uzi.txd" />
+	<file src="models/colt45.dff" />
+	<file src="models/colt45.txd" />
+
+    <file src="components/firingmode.mp3"/>
+    <file src="components/no_ammo.mp3"/>
+    <file src="components/reload_1.mp3"/>
+    <file src="components/reload_2.mp3"/>
+    <file src="components/reload_3.mp3"/>
+	<file src="components/weap/AK-47.wav"/>
+	<file src="components/weap/beanbag.wav"/>
+	<file src="components/weap/Colt45.wav"/>
+	<file src="components/weap/CombatShgun.wav"/>
+	<file src="components/weap/Deagle.wav"/>
+	<file src="components/weap/M4.wav"/>
+	<file src="components/weap/MP5.wav"/>
+	<file src="components/weap/Rifle.wav"/>
+	<file src="components/weap/Sawed-Off.wav"/>
+	<file src="components/weap/Shotgun.wav"/>
+	<file src="components/weap/Silenced.wav"/>
+	<file src="components/weap/Sniper.wav"/>
+	<file src="components/weap/Tazer.wav"/>
+	<file src="components/weap/tec9.wav"/>
+	<file src="components/weap/UZI.wav"/>
+</meta>

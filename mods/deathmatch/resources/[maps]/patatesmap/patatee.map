@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main">
+    <object id="object (CJ_CHRIS_CRATE) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="2669" scale="1" doublesided="false" collisions="true" posX="1269.3" posY="-2089.3999" posZ="57.7" rotX="357.25" rotY="0" rotZ="178.495"></object>
+    <removeWorldObject id="removeWorldObject (sm_veg_tree4_big) (1)" radius="15.724506" interior="0" model="691" lodModel="0" posX="1268.3984" posY="-2092.8047" posZ="55.78906" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (sm_veg_tree4_big) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="691" scale="1" doublesided="false" collisions="true" posX="1277.8" posY="-2080.5" posZ="56.9" rotX="0" rotY="0" rotZ="309.133"></object>
+    <object id="object (lhouse_barrier2) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="994" scale="1" doublesided="false" collisions="true" posX="1261.5" posY="-2091.8" posZ="56.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (hrborbuild_SFN01) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="9244" scale="1" doublesided="false" collisions="true" posX="1252.6" posY="-2077.1001" posZ="62.6" rotX="3.75" rotY="0" rotZ="0"></object>
+    <object id="object (lhouse_barrier2) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="994" scale="1" doublesided="false" collisions="true" posX="1255.3" posY="-2091.8" posZ="56.3" rotX="0" rotY="0" rotZ="0"></object>
+</map>

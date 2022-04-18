@@ -1,0 +1,38 @@
+img{
+    position: relative;
+    margin-top: .5pt;
+    margin-left: -.3pt;
+    display: inline-block;
+}
+
+.global{
+    background-color: rgb(10, 10, 10);
+    opacity: 0.8;
+    width:  115px;
+    height: 20px;
+    border: 0px solid #000000;
+    margin-right: 5px;
+    float: left;
+    border-radius: 7px;
+}
+
+#uzun{
+    width: 85px;
+
+}
+
+.hunger{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+    background-color: #b9863d;
+}
+
+.thirst{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+    background-color: #61809d;
+}

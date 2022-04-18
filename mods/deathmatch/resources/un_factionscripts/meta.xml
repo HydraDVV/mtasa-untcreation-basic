@@ -1,0 +1,67 @@
+<meta>
+    
+    <oop>true</oop>
+    
+    <script src="global.lua" type="shared" />
+    <script src="helicopters.lua" type="server" />
+    
+    <script src="hospital/commands_server.lua" type="server" />
+    <script src="hospital/walkie_server.lua" type="server" />
+    
+    <script src="police/beanbag_server.lua" type="server" />
+    <script src="police/beanbag_client.lua" type="client" cache="false" />
+    
+    <script src="police/callsign_server.lua" type="server" />
+    <script src="police/callsign_client.lua" type="client" cache="false" />
+    
+    <script src="police/commands_server.lua" type="server" />
+    
+    <script src="police/deagle_server.lua" type="server" />
+    <script src="police/deagle_client.lua" type="client" cache="false" />
+    
+    <script src="police/district_server.lua" type="server" />
+    <script src="police/district_client.lua" type="client" cache="false" />
+    
+    <script src="police/fastrope_server.lua" type="server" />
+    <script src="police/fastrope_client.lua" type="client" cache="false" />
+    
+    <script src="police/headlight_server.lua" type="server" />
+    <script src="police/headlight_client.lua" type="client" cache="false" />
+    
+    <script src="police/line_server.lua" type="server" />
+    <script src="police/line_client.lua" type="client" cache="false" />
+    
+    <script src="police/siren_server.lua" type="server" />
+    <script src="police/siren_client.lua" type="client" cache="false" />
+    
+    <script src="police/speedcam_server.lua" type="server" />
+    
+    <script src="police/spike_server.lua" type="server" />
+    <script src="police/spike_client.lua" type="client" cache="false" />
+    
+    <script src="police/strobe_server.lua" type="server" />
+    <script src="police/strobe_client.lua" type="client" cache="false" />
+    
+    <script src="police/support_server.lua" type="server" />
+    <script src="police/support_client.lua" type="client" cache="false" />
+    
+    <script src="police/walkie_server.lua" type="server" />
+    <script src="police/walkie_client.lua" type="client" cache="false" />
+    
+    <map src="maps/LSPD-exterior.map" dimension="0" />
+    <map src="maps/detective.map" dimension="0" />
+    <map src="maps/lscsd.map" dimension="10" />
+    <map src="maps/lspdinterior.map" dimension="10" />
+    <script src="maps/lspd_s.lua" type="server" />
+    <script src="maps/lspdex_s.lua" type="server" />
+    
+    <file src="components/Roboto.ttf" />
+    <file src="components/panic.mp3" />
+    <file src="components/siren.wav" />
+    <file src="components/walkie.mp3" />
+    <file src="components/policeline.png" />
+    <file src="components/support.png" />
+    <file src="components/follow.png" />
+    
+    <min_mta_version client="1.5.5-9.14060"></min_mta_version>
+</meta>

@@ -1,0 +1,13 @@
+<meta>
+    <oop>true</oop>
+	<!-- Scoreboard -->
+	
+    <script src="s_tab.lua" type="server" />
+    <script src="c_tab.lua" type="client" protected="true" />
+    
+    <export function="isVisible" type="client" />
+    
+    <file src="wheel.wav" />
+    <file src="go3v2.ttf" />
+	 <min_mta_version server="1.5.2-9.07903" client="1.3.0-9.04431" />
+</meta>

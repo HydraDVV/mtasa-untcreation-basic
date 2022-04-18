@@ -1,0 +1,8 @@
+<meta>
+
+<!-- SCRİPT -->
+
+<script src="client.lua" type="client"/>
+<file src="object.txd" type="client"/>
+
+</meta>

@@ -1,0 +1,9 @@
+<meta>
+	<info author="HMT" name="Obje" type="script" />
+
+	<script type="client" src="client.lua" cache="false"/> 
+   
+     <file src="object.txd" />
+     <file src="object.dff" />
+
+</meta>
